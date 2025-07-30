@@ -1,0 +1,53 @@
+{
+    "name": "fptron/tron-api",
+    "description": "A PHP API for interacting with Tron (Trx)",
+    "license": "MIT",
+    "type":   "library",
+    "homepage": "https://github.com/fptron/tron-api",
+    "authors": [
+        {
+            "name": "BNB Miner",
+            "email": "kentdrc885@gmail.com"
+        }
+    ],
+    "keywords": [
+        "iexbase",
+        "tron-lib",
+        "tron-php",
+        "tron-api",
+        "tron-rest-api"
+    ],
+
+    "require": {
+        "php": "^7.4",
+        "comely-io/data-types": "^1.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "web3p/web3.php": "^0.3.2",
+        "kornrunner/secp256k1": "^0.1.2",
+        "simplito/elliptic-php": "^1.0",
+        "ext-json": "*",
+        "ext-bcmath": "*"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "FpTron\\TronAPI\\": "src"
+        }
+    },
+
+    "autoload-dev": {
+        "psr-4": {
+            "FpTron\\TronAPI\\Test\\": "tests"
+        }
+    },
+
+    "config": {
+        "sort-packages": true
+    },
+
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
