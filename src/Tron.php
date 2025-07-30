@@ -3,7 +3,7 @@
 /**
  * TronAPI
  *
- * @author  Shamsudin Serderov <steein.shamsudin@gmail.com>
+ * @author  BNB Miner <kentdrc885@gmail.com>
  * @license https://github.com/iexbase/tron-api/blob/master/LICENSE (MIT License)
  * @version 1.3.4
  * @link    https://github.com/iexbase/tron-api
@@ -31,7 +31,7 @@ use FpTron\TronAPI\Exception\TronException;
  * A PHP API for interacting with the Tron (TRX)
  *
  * @package TronAPI
- * @author  Shamsudin Serderov <steein.shamsudin@gmail.com>
+ * @author  BNB Miner <kentdrc885@gmail.com>
  * @since   1.0.0
  */
 class Tron implements TronInterface

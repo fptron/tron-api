@@ -3,7 +3,7 @@
 /**
  * TronAPI
  *
- * @author  Shamsudin Serderov <steein.shamsudin@gmail.com>
+ * @author  BNB Miner <kentdrc885@gmail.com>
  * @license https://github.com/iexbase/tron-api/blob/master/LICENSE (MIT License)
  * @version 1.3.4
  * @link    https://github.com/iexbase/tron-api
